@@ -1,4 +1,4 @@
-import MediumZoom from "../../../src/index"
+import MediumZoom from "vite-plugin-vitepress-medium-zoom"
 export default {
   title: "test",
   base: "/",
