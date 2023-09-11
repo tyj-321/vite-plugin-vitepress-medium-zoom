@@ -3,6 +3,7 @@
 
 # Usage
 ```shell
+pnpm install medium-zoom
 pnpm install vite-plugin-vitepress-medium-zoom
 ```
 .virepress/config.js
